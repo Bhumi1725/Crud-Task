@@ -10,3 +10,10 @@
     height: 100vh;
     background-color: blue;
 }
+.btndel{
+    background-color: red;
+    /* text-decoration: line-through; */
+}
+li{
+    list-style: none;
+}
